@@ -13,6 +13,12 @@ HashEncrypt is a password management tool designed to help users generate unique
 4. **Generate Password**: HashPass will generate a unique password based on the main phrase and symbols provided.
 5. **Copy and Use**: Copy the generated password and use it for logging in to the corresponding website.
 
+### Screenshots
+
+<img src="https://github.com/tadassolys/HashEncrypt/assets/103380760/4d6868a7-df52-4545-ab72-f0fc1cf46f91" width="300" alt="Screenshot 1">
+<img src="https://github.com/tadassolys/HashEncrypt/assets/103380760/6bad92e7-a6bd-48b5-9b7d-3625f26e3208" width="300" alt="Screenshot 2">
+<img src="https://github.com/tadassolys/HashEncrypt/assets/103380760/104a62ce-1b29-4aee-812e-a585a016d2c0" width="300" alt="Screenshot 3">
+
 
 ## Security Considerations
 
